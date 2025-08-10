@@ -92,7 +92,7 @@
         </div>
         <div class="link-grid">
             <div class="link-card">
-                <a href="flex_learning_system/public/" target="_blank">E-Learning Portal System</a>
+                <a href="flex_learning_system/public/" target="_blank">E-Learning Portal System <span>admin : admin@gmail.com</span><span>password : 123</span></a>
             </div>
             <div class="link-card">
                 <a href="vegetable_market/public/" target="_blank">Vegetable Market</a>
