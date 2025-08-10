@@ -92,10 +92,10 @@
         </div>
         <div class="link-grid">
             <div class="link-card">
-                <a href="flex_learning/public" target="_blank">E-Learning Portal System</a>
+                <a href="flex_learning_system/public/" target="_blank">E-Learning Portal System</a>
             </div>
             <div class="link-card">
-                <a href="vegetable_market/public" target="_blank">Vegetable Market</a>
+                <a href="vegetable_market/public/" target="_blank">Vegetable Market</a>
             </div>
             <div class="link-card">
                 <a href="pokemon.php" target="_blank">Pokémon</a>
